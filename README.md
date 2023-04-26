@@ -1,4 +1,4 @@
-# NoteNoDev3t
+# NotEnoDev3t
 
 This was the python algo, I created during Season 7 of the Global Terminal Compitition that ultimatly won second place.
 
