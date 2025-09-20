@@ -4,7 +4,7 @@ This was the python algo, I created during Season 7 of the Global Terminal Compi
 
 The final Championship match of Season 7 can be seen <a href="https://terminal.c1games.com/watch/7505015">here</a> 
 
-The Twitch VOD of the finale can be seen <a href="https://www.twitch.tv/videos/874809632">here</a>
+The Twitch VOD of the championship can be seen <a href="https://www.twitch.tv/videos/874809632">here</a>
 
 The final rounds leading up to the final round can be seen <a href="https://terminal.c1games.com/competitions/254">here</a> and <a href="https://terminal.c1games.com/competitions/253">here.
 
